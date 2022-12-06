@@ -1,0 +1,12 @@
+C:\Users\moises.alves\source\repos\StudentDataAccess\bin\Debug\StudentDataAccess.dll.config
+C:\Users\moises.alves\source\repos\StudentDataAccess\bin\Debug\StudentDataAccess.dll
+C:\Users\moises.alves\source\repos\StudentDataAccess\bin\Debug\StudentDataAccess.pdb
+C:\Users\moises.alves\source\repos\StudentDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\moises.alves\source\repos\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moises.alves\source\repos\StudentDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\moises.alves\source\repos\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moises.alves\source\repos\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.AssemblyReference.cache
+C:\Users\moises.alves\source\repos\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\moises.alves\source\repos\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.CopyComplete
+C:\Users\moises.alves\source\repos\StudentDataAccess\obj\Debug\StudentDataAccess.dll
+C:\Users\moises.alves\source\repos\StudentDataAccess\obj\Debug\StudentDataAccess.pdb
